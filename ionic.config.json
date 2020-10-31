@@ -1,0 +1,7 @@
+{
+  "name": "ponsh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
